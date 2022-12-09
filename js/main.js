@@ -24,6 +24,7 @@ contact.addEventListener("click", () => {
     background: "#00aa00",
     width: "400px",
     height: "400px",
+    top: "40px",
     mount: contactContent,
     onfocus: function () {
       this.setBackground("#00aa00");
